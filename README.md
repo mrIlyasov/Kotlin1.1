@@ -1,7 +1,8 @@
 # Задача 1.1
 
-![](https://netology.ru/blog/wp-content/themes/aquene-child-theme/img/logo.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Netology_logo.svg/1176px-Netology_logo.svg.png)
 
-* Домашнее задание по курсу программирование на Kotlin  
+Домашнее задание по курсу программирование на Kotlin  
+Ильясов Артур
 
 
